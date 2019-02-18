@@ -1,0 +1,5 @@
+numpy==1.13.3
+scipy
+tqdm
+Pillow==4.0.0
+tensorflow-gpu==1.12.0
